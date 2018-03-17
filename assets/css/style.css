@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: white;
+}
+
+#spawnButtons{
+    margin: 5px;
+}
+.topic{
+    margin: 2px
+}
+.input-group{
+    margin: 5px;
+    float: left;
+}
+
+#gifs{
+    margin-top: 50px;
+}
+
+.gif{
+    display: inline-block;
+}
+
+h2{
+    font-size: 20px;
+}
